@@ -131,5 +131,5 @@ plt.figtext(0.82, 0.43, legend_text,
 
 plt.tight_layout()
 plt.subplots_adjust(right=0.8)
-plt.savefig("satellite_terror_map.png", dpi=300, bbox_inches="tight", facecolor=fig.get_facecolor())
+plt.savefig("satellite_border_conflict_map.png", dpi=300, bbox_inches="tight", facecolor=fig.get_facecolor())
 plt.show()
